@@ -1,4 +1,5 @@
-# PUBG Mobile Global SDK
+# PUBG Mobile 2.2 Global SDK
 
-## Versions
-- [PUBGM 2.1 SDK](https://github.com/zsnakeee/PUBGM-SDK/tree/2.1)
+## Offsets
+- gWorld: 0x7DEC600
+- gName: 0x7ADB1B0
