@@ -2,3 +2,4 @@
 
 ## Versions
 - [PUBGM 2.1 SDK](https://github.com/zsnakeee/PUBGM-SDK/tree/2.1)
+- [PUBGM 2.2 SDK](https://github.com/zsnakeee/PUBGM-SDK/tree/2.2)
