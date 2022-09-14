@@ -1,1 +1,1 @@
-# PUBG Mobile SDK
+# PUBG Mobile Global SDK
