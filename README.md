@@ -1,1 +1,1 @@
-# PUBGM-GLOBAL-2.1
+# PUBG Mobile SDK
