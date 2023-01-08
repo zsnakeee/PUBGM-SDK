@@ -1,5 +1,5 @@
-# PUBG Mobile 2.3 Global SDK
+# PUBG Mobile 2.4 Global SDK
 
 ## Offsets
-- gWorld: 0x7F2FD1C
-- gName: 0x7C1ADB8
+- gWorld: 0x82467D4
+- gName: 0x7F15A38
