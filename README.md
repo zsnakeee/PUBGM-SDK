@@ -8,3 +8,4 @@
 - [PUBGM 2.5 SDK](https://github.com/zsnakeee/PUBGM-SDK/tree/2.5)
 - [PUBGM 2.6 SDK](https://github.com/zsnakeee/PUBGM-SDK/tree/2.6)
 - [PUBGM 2.7 SDK](https://github.com/zsnakeee/PUBGM-SDK/tree/2.7)
+- [PUBGM 2.8 SDK](https://github.com/zsnakeee/PUBGM-SDK/tree/2.8)
