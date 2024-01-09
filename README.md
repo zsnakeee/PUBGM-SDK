@@ -1,4 +1,4 @@
-# PUBG Mobile 2.9 Global SDK
+# PUBG Mobile 3.0 Global SDK
 
 ## Offsets
 - gWorld: 0x92880F8
