@@ -1,5 +1,5 @@
-# PUBG Mobile 3.0 Global SDK
+# PUBG Mobile 3.1 Global SDK
 
 ## Offsets
-- gWorld: 0x92880F8
-- gName: 0x8F2D424
+- gWorld: 0x93FAEF8
+- gName: 0x8EAC4A4
