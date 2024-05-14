@@ -12,4 +12,4 @@
 - [PUBGM 2.9 SDK](https://github.com/zsnakeee/PUBGM-SDK/tree/2.9)
 - [PUBGM 3.0 SDK](https://github.com/zsnakeee/PUBGM-SDK/tree/3.0)
 - [PUBGM 3.1 SDK](https://github.com/zsnakeee/PUBGM-SDK/tree/3.1)
-
+- [PUBGM 3.2 SDK](https://github.com/zsnakeee/PUBGM-SDK/tree/3.2)
